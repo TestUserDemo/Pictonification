@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/apoorva/Work/Android/Pictonification/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/apoorva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bccbac3e836d591998376d4b5e1270c7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/apoorva/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4a0fde9010a83e77778c6e5afb016c08/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
